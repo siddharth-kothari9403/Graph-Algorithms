@@ -2,3 +2,13 @@
 An implementation of various graphing algorithms learned, it contains the following codes
 
 # BFS
+The code for bfs, and applications as mentioned below:
+1. Code to find whether a given graph is bipartite or not.
+2. Code to find the shortest length path between the source node and any other node in the graph.
+3. Code to find the connected components of the graph.
+
+# DFS
+The code for dfs, and applications as mentioned below:
+1. Code to find a topological ordering for a DAG.
+2. Code to find the Strongly Connected Components of a graph.
+3.
